@@ -13,3 +13,8 @@ A simple and elegant Quote Generator web app that displays random inspirational 
 - HTML5
 - CSS3
 - JavaScript
+
+## 📂 Project Structure
+├── index.html
+├── style.css
+├── script.js
