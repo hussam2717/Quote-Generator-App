@@ -8,3 +8,8 @@ A simple and elegant Quote Generator web app that displays random inspirational 
 - 📋 Copy quote to clipboard
 - 🎨 Modern dark UI design
 - ⚡ Fast and responsive
+
+## 🛠️ Tech Stack
+- HTML5
+- CSS3
+- JavaScript
