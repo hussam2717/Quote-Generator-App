@@ -18,3 +18,10 @@ A simple and elegant Quote Generator web app that displays random inspirational 
 ├── index.html
 ├── style.css
 ├── script.js
+
+
+## 💡 Future Improvements
+- Add API-based quotes
+- Add categories (motivation, success, life)
+- Add share to social media
+- Light/Dark mode toggle
